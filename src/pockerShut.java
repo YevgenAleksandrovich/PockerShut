@@ -1,11 +1,6 @@
 import java.util.Random;
 
-
-
 public class pockerShut {
-
-
-    public class PockerShut {
         public static void main(String[] args) {
             char suits[] = {'\u2660', '\u2664', '\u2665', '\u2661', '\u2663', '\u2667', '\u2666', '\u2662'};
             String values[] = {"6", "7", "8", "9", "10", "V", "D", "K", "T"};
@@ -30,4 +25,4 @@ public class pockerShut {
         }
     }
 
-}
+
